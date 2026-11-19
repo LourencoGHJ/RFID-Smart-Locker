@@ -16,34 +16,14 @@ A **Caixa Inteligente RFID** é um protótipo de cacifo/armário com controlo de
 |---|---|
 | **Relatório completo da PAP (PDF)** | [Abrir / descarregar relatório](./relatorio%20Guilherme%201%206%20%281%29%20%281%29%201%20%282%29.pdf) |
 | Código-fonte Arduino | [pap Gui atualizada 30.ino](./pap%20Gui%20atualizada%2030.ino) |
-| Galeria de fotografias | [Ver pasta img](./img/) |
 | Bibliotecas incluídas | [Ver pasta libraries](./libraries/) |
 | Licença | [LICENSE](./LICENSE) |
 
 > O PDF acima é o relatório de PAP incluído neste repositório. O GitHub permite abri-lo no navegador ou descarregá-lo.
 
-## Galeria
+## Fotografias
 
-As imagens seguintes são todas as fotografias atualmente existentes na pasta `img/` do repositório (**18 imagens**). Seleciona uma imagem para a abrir em tamanho completo.
-
-### Fotografias
-
-| | | |
-|:---:|:---:|:---:|
-| ![Fotografia 1](img/06de14ab-d5c7-4679-94ff-e1c8767ab80b.JPG) | ![Fotografia 2](img/62e89df1-2097-4715-a043-cbd468ad9cbe.JPG) | ![Fotografia 3](img/638aa0ee-c6ff-4070-95b5-73d1d2b42736.JPG) |
-| [Abrir imagem 1](img/06de14ab-d5c7-4679-94ff-e1c8767ab80b.JPG) | [Abrir imagem 2](img/62e89df1-2097-4715-a043-cbd468ad9cbe.JPG) | [Abrir imagem 3](img/638aa0ee-c6ff-4070-95b5-73d1d2b42736.JPG) |
-| ![Fotografia 4](img/7fdec6b7-786b-4ade-a1f7-72485c4f1421.JPG) | ![Fotografia 5](img/IMG-1547.jpg) | ![Fotografia 6](img/IMG-1549.jpg) |
-| [Abrir imagem 4](img/7fdec6b7-786b-4ade-a1f7-72485c4f1421.JPG) | [Abrir imagem 5](img/IMG-1547.jpg) | [Abrir imagem 6](img/IMG-1549.jpg) |
-| ![Fotografia 7](img/IMG-1555.jpg) | ![Fotografia 8](img/IMG-1556.jpg) | ![Fotografia 9](img/IMG-1831.jpg) |
-| [Abrir imagem 7](img/IMG-1555.jpg) | [Abrir imagem 8](img/IMG-1556.jpg) | [Abrir imagem 9](img/IMG-1831.jpg) |
-| ![Fotografia 10](img/IMG-1832.jpg) | ![Fotografia 11](img/IMG_0858.jpeg) | ![Fotografia 12](img/IMG_0960.jpeg) |
-| [Abrir imagem 10](img/IMG-1832.jpg) | [Abrir imagem 11](img/IMG_0858.jpeg) | [Abrir imagem 12](img/IMG_0960.jpeg) |
-| ![Fotografia 13](img/IMG_1095.jpeg) | ![Fotografia 14](img/IMG_1190.jpeg) | ![Fotografia 15](img/IMG_1385.jpeg) |
-| [Abrir imagem 13](img/IMG_1095.jpeg) | [Abrir imagem 14](img/IMG_1190.jpeg) | [Abrir imagem 15](img/IMG_1385.jpeg) |
-| ![Fotografia 16](img/IMG_1421.jpeg) | ![Fotografia 17](img/IMG_1423.jpeg) | ![Fotografia 18](img/IMG_1501.jpeg) |
-| [Abrir imagem 16](img/IMG_1421.jpeg) | [Abrir imagem 17](img/IMG_1423.jpeg) | [Abrir imagem 18](img/IMG_1501.jpeg) |
-
-Também podes [abrir a pasta completa de imagens no GitHub](./img/).
+As fotografias anteriormente guardadas na pasta `img/` foram removidas do repositório.
 
 ## Objetivo
 
