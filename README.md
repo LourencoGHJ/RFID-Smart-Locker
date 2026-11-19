@@ -14,12 +14,9 @@ A **Caixa Inteligente RFID** é um protótipo de cacifo/armário com controlo de
 
 | Recurso | Acesso |
 |---|---|
-| **Relatório completo da PAP (PDF)** | [Abrir / descarregar relatório](./relatorio%20Guilherme%201%206%20%281%29%20%281%29%201%20%282%29.pdf) |
 | Código-fonte Arduino | [pap Gui atualizada 30.ino](./pap%20Gui%20atualizada%2030.ino) |
 | Bibliotecas incluídas | [Ver pasta libraries](./libraries/) |
 | Licença | [LICENSE](./LICENSE) |
-
-> O PDF acima é o relatório de PAP incluído neste repositório. O GitHub permite abri-lo no navegador ou descarregá-lo.
 
 ## Fotografias
 
@@ -129,7 +126,7 @@ Estas são propostas de evolução e não funcionalidades confirmadas como imple
 - **Curso:** Técnico de Gestão e Programação de Sistemas Informáticos
 - **Instituição:** Escola Secundária da Boa Nova — Leça da Palmeira
 - **Ano letivo:** 2022/2023
-- **Relatório:** [Relatorio de PAP (PDF)](./relatorio%20Guilherme%201%206%20%281%29%20%281%29%201%20%282%29.pdf)
+- **Relatório:** não incluído neste repositório.
 
 ## Referências
 
