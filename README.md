@@ -90,7 +90,6 @@ O código inclui estas bibliotecas:
 
 Foram disponibilizadas duas versões do sketch:
 
-- `pap Gui atualizada16.ino`
 - `pap Gui atualizada 30.ino`
 
 As duas versões usam os mesmos pinos e bibliotecas principais, mas apresentam diferenças na sequência de ativação do relé, nos tempos de espera e no tratamento do ciclo de leitura. Por esse motivo, este README não identifica nenhuma delas como versão final.
